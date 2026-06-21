@@ -1,3 +1,4 @@
+BIOINFORMATICS_TOOLKIT
 Features:
 - DNA Analyzer
 - Reverse Complement Generator
